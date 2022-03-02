@@ -1,8 +1,8 @@
 {
-  "name": "wporg-internal-notes",
-  "version": "1.0.0",
-  "description": "Enables adding internal notes to supporting post types on WordPress.org",
-  "author": "WordPress.org",
+  "name": "wporg/wporg-internal-notes",
+  "version": null,
+  "description": "",
+  "author": null,
   "homepage": "https://wordpress.org",
   "license": "GPL-2.0-or-later",
   "support": {
